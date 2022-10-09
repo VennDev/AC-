@@ -1,0 +1,12 @@
+{
+    "config": {
+        "settings": {
+            "movement": {
+                "normalSpeed": 0.1,
+                "sprintSpeed": 0.13,
+                "sneakSpeed": 0.05,
+                "sprintSneakSpeed": 0.07
+            }
+        }
+    }
+}
